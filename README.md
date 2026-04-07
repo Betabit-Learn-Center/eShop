@@ -6,6 +6,11 @@ A reference .NET application implementing an e-commerce website using a services
 
 ![eShop homepage screenshot](img/eshop_homepage.png)
 
+## License
+This Betabit eShop is based on the originally created by Microsoft, found [here](https://github.com/dotnet/eshop).
+The original is published under the MIT license.
+This app is a based on a fork of the original and was adjusted to fit more properly in Betabit's AI-assisted coding trainings.
+
 ## Getting Started
 
 Betabit eShop is based on .NET 9. 
